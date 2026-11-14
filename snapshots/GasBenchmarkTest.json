@@ -1,11 +1,11 @@
 {
-  "baseline_plain_oz_deposit_new_holder": "55526",
-  "deposit_existing_holder": "65868",
-  "deposit_new_holder": "82968",
-  "deposit_new_holder_zero_fee": "73550",
-  "mint_existing_holder": "65792",
-  "pause": "31538",
-  "redeem_full": "41065",
-  "setDepositFee": "14995",
-  "withdraw_partial": "51670"
+  "baseline_plain_oz_deposit_new_holder": "52517",
+  "deposit_existing_holder": "60437",
+  "deposit_new_holder": "77537",
+  "deposit_new_holder_zero_fee": "68784",
+  "mint_existing_holder": "60475",
+  "pause": "31014",
+  "redeem_full": "37538",
+  "setDepositFee": "14290",
+  "withdraw_partial": "46650"
 }
